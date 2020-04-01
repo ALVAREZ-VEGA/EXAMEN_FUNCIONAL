@@ -1,2 +1,2 @@
 # EXAMEN_FUNCIONAL
-Repositorio para examen.
+Examen. Alvarez Vega Socorro
